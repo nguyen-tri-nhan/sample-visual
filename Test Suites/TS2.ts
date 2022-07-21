@@ -17,4 +17,58 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Main Test Cases/Without VS</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>842029ca-cc54-4778-8c49-7ea1b53d0871</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Main Test Cases/TC Lung tung</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5a80293a-9818-4672-9a6f-7ccbd202e4be</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Main Test Cases/Login success 2</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e2dec500-1cc2-4ada-8aac-e73448eec660</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7ea6e44e-ce39-405d-9d1d-3ab35a178d43</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e05bec37-8dfc-4de2-978a-965e4f5538dd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>58c15445-d45d-46e6-ac70-c7adbbd2cc87</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>eacdca82-eacc-4d25-b197-4c041b388673</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>531ffc7f-7d0a-4026-ab99-e2e68882bc87</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>eb415e4d-2c48-4c2d-b042-07a4d492a48b</variableId>
+      </variableLink>
+   </testCaseLink>
 </TestSuiteEntity>
